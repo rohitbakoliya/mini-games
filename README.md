@@ -1,2 +1,2 @@
-# mini-games
-Mini games in javascript and Python
+# mini_games
+Mini Games developed in Javascript and Python
