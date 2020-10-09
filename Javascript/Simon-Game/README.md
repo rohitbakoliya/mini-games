@@ -1,3 +1,5 @@
-Simon Game
+# Dice-Roll-Game
+<b>Dice Roll Programming For Web Browser Games Using JavaScript</b><br><br>
+# Simple game using JS<br>
+There is a button name "Roll Dice" when it clicked the two dices are spinning. when output numbers are same return the sum of two numbers and saying the numbers are same you get free spin.. Otherwise return the sum of two numbers.
 
-Simon is game of memory skill which creates a series of sounds and lights and requires the user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over.
